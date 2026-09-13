@@ -8,4 +8,10 @@
 #     scope: none | shared | server:<id>
 #     url: <download URL>
 #     sha1: <hex digest of the zip bytes>
-packs: {}
+packs:
+  ym-rp2:
+    uuid: f951b1a5-341d-4690-9d78-55254c589718
+    display-name: ym-rp2-fe2f
+    scope: none
+    url: https://github.com/dariboz/Vanilla-SMP-packs/releases/download/dev/test-pack.zip
+    sha1: 6a0fa15579c370160dbe820715c3f06df4ca6bdd
