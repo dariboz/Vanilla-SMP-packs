@@ -19,7 +19,7 @@ packs:
     uuid: 5432d9af-ea6c-46aa-ac83-b4fa949c9d97
     display-name: §b§lYM RP§b
     scope: server:ym-map
-    url: https://github.com/dariboz/Vanilla-SMP-packs/releases/download/dev/b.lYM.RP.b.zip
+    url: https://github.com/dariboz/Vanilla-SMP-packs/releases/download/dev/YM-RP.zip
     sha1: 94212c1b9ea2ea89aae6cd9c18581a67c755bea7
   Vanilla-SMP-YM-Integration:
     uuid: 56ceea13-458b-4b9a-9e6c-0078b7deb473
