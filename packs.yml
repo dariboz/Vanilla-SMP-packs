@@ -25,5 +25,5 @@ packs:
     uuid: 56ceea13-458b-4b9a-9e6c-0078b7deb473
     display-name: Vanilla SMP YM Integration
     scope: server:ym-map
-    url: https://github.com/dariboz/Vanilla-SMP-packs/releases/download/dev/Vanilla.SMP.YM.Integration.zip
+    url: https://github.com/dariboz/Vanilla-SMP-packs/releases/download/dev/Vanilla-SMP-YM-Integration.zip
     sha1: e922f052a44cc06e118ffaef493d1b4469c2420a
