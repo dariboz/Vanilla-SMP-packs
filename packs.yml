@@ -26,4 +26,4 @@ packs:
     display-name: Vanilla SMP YM Integration
     scope: server:ym-map
     url: https://github.com/dariboz/Vanilla-SMP-packs/releases/download/dev/Vanilla-SMP-YM-Integration.zip
-    sha1: e922f052a44cc06e118ffaef493d1b4469c2420a
+    sha1: f21e2a1b069937c1d22f67bebf5feb6733258159
