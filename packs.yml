@@ -27,3 +27,9 @@ packs:
     scope: server:ym-map
     url: https://github.com/dariboz/Vanilla-SMP-packs/releases/download/dev/Vanilla-SMP-YM-Integration.zip
     sha1: 70ac36526b7d51fa9d78920a65a61729cd1e6583
+  core:
+    uuid: ddc966e2-d167-4447-b817-393413a40a42
+    display-name: core
+    scope: server:main
+    url: https://github.com/dariboz/Vanilla-SMP-packs/releases/download/dev/Server-resources.zip
+    sha1: 77efdf96da61333630834b9bf075f18315636d7e
